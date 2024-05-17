@@ -29,7 +29,7 @@ DEBUG = True
 
 # settings.py
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['fastkart-nz2r.onrender.com', '0.0.0.0', 'localhost']
 
 
 
